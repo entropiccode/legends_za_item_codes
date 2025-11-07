@@ -1,6 +1,8 @@
 # Legends ZA Item Codes Changelog
 Here's a list of updates and changes made to this repo, sorted by date. Please refer to the commits history for specific commit details.
 
+---
+
 ### October 14th
 #### New
 - Created the repo!
