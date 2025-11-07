@@ -74,6 +74,7 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 #### New
 - Patch 1.0.2 is here! Added new item codes and pokemon encounter codes compatible with this version.
 - Added this changelog file! Hopefully I remember to keep it updated.
+- Added codes to remove Mega Stones and TMs for both 1.0.1 and 1.0.2.
 #### Updates
 - Overhauled the overall structure of the repo. Code files for a given version can now be found in folders corresponding to the version they work with. Reference files remain in the root directory of the repo.
 - Updated patch 1.0.1 encounter codes referencing a specific forme to use a more condensed code structure, reducing the overall side of encounter codes targetting a specific forme by 33%. Patch 1.0.2 encounter codes were generated in this new format.
