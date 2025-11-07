@@ -4,16 +4,13 @@ These files represent individual Legends ZA item codes for use with cheat tools 
 These codes can be used even if you have not found the item in question. We now have a better understanding of the internal inventory data, and as such these codes have been built to avoid inventory corruption in saves. Furthermore, I have tested each of these codes myself on switch hardware and can confirm they do not cause save corruption.
 
 ## How to Use
-The provided files should not be used as is unless you only need a very specific set of items and only those items.
+The provided files should not be used as is unless you only need a very specific set of items and only those items. Instead, pick and choose the codes you want and add them to your cheat file.
 
-1. Download the text file located in the folder matching the version of the game you are running (at time of writing, the only version available is 1.0.1 as that is the version I am playing/testing).
-2. Open the downloaded file in a text editor.
-3. Copy the desired item codes from the text files in the root of this repository into the downloaded text file. Save the file when you are finished.
-4. Copy the downloaded text file into the following directory on your Switch: `atmosphere/contents/0100F43008C44000/cheats/`
+1. Open your cheat file in a text editor.
+2. Copy the desired item codes from the text files in the root of this repository into the downloaded text file. Save the file when you are finished.
+3. Copy the downloaded text file into the following directory on your Switch: `atmosphere/contents/0100F43008C44000/cheats/`
   If the directory does not exist, create it manually.
-5. Launch the game and press `L + Down + Right Stick` to open the cheat menu.
-
-If you have an existing cheats file, you can add the item codes to the existing file.
+4. Launch the game and press `L + Down + Right Stick` to open the cheat menu.
 
 If you are using Edizon overlay to manage your cheats, you can put cheats into subfolders in the cheat menu for better organization. I have included the section tags to make this work in the item code files. To use them in your cheat file, simply put section open and close tags around the codes you wish to put into a folder. For example:
 
@@ -35,7 +32,7 @@ If you are using Edizon overlay to manage your cheats, you can put cheats into s
 00000000 00000000 00000000
 ```
 
-The following will put the '990x Rare Candy' and '990x Exp. Candy XL' codes into a sub folder called "XP/Leveling Items" in the cheat menu.
+The following will put the '990x Rare Candy' and '990x Exp. Candy XL' codes into a sub folder called "XP/Leveling Items" in the cheat menu. **This does not work on emulators**.
 
 ## Credits
 [Stoned](https://gbatemp.net/members/stoned.347253/) - Created the original known-good item codes that these item codes are based on.

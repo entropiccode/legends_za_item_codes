@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ## 1 - Do these codes work on 1.0.0?
-The build ID for 1.0.0 is identical to 1.0.1, so the codes for 1.0.1 will work on 1.0.0
+The build ID for 1.0.0 is identical to 1.0.1, so the codes for 1.0.1 will work on 1.0.0.
 
 ## 2 - Do these codes work on emulator?
 While I have not directly confirmed myself, many others have reported these codes working as intended on multiple different emulators.
@@ -21,7 +21,14 @@ These instructions are for those running Atmosphere CFW on Switch hardware with 
 
 1 - **BACKUP YOUR SAVE!** This is something you should be doing any time you are trying new codes. While I can verify the safety of codes from this repo, this is a good habit to have regardless.
 
-2 - Copy and paste the desired cheat codes into a text file. The filename of the text file should match the build ID of the version of the game you are playing. For versions 1.0.0 and 1.0.1, the filename should be 7222E13ECF6ADB32.txt. There are blank text files with the correct filenames in the patch version folders in this repo. For this example, I will setup the cheat file like so:
+2 - Copy and paste the desired cheat codes into a text file. The filename of the text file should match the build ID of the version of the game you are playing.
+
+| Version | build ID |
+|:-------:|:--------:|
+| 1.0.0 / 1.0.1 | 7222E13ECF6ADB32 |
+| 1.0.2 | 7FC4289C78877148 |
+
+For this example, I will setup a 1.0.1 cheat file (7222E13ECF6ADB32.txt) like so:
 
 ```
 [990x Rare Candy]
@@ -61,19 +68,19 @@ You can turn the cheats off after enabling them if you choose, keeping them on s
 Save and reload, and the Poke Balls will appear.
 
 ## 7 - Help, I soft-locked myself because I gave myself a key item, and now the game is trying to give it to me but I can't take it!
-You can find codes to remove individual key items here: https://github.com/entropiccode/legends_za_item_codes/blob/main/remove_key_items.txt
+Please refer to the `remove_key_items.txt` file for the version of the game you are playing to find the code to remove the item in question.
 
 ## 8 - I added some items via cheat, why can't I see them?
 There are several item categories in the satchel, and most of them are not available at the start. If you cheat in an item for a category you have not yet unlocked, the cheat will not work. This most commonly affects Mega Stones, as you do not get the Mega Stone bag category until you have unlocked your first Mega Stone through story progression, but can affect Berries, Other Items, TMs and Treasures, depending on how early you attempt to cheat in items.
 
 ## 9 - I don't see my cheats in the cheat menu?
-Your cheat file is in the wrong location, or has the wrong file name. On Switch hardware, the cheat file should be named after the build ID for the version you are playing, and be in the correct folder. For versions 1.0.0 and 1.0.1, the full path on your Switch should look like this:
-`/atmosphere/contents/0100F43008C44000/cheats/7222E13ECF6ADB32.txt`
+Your cheat file is in the wrong location, or has the wrong file name. On Switch hardware, the cheat file should be named after the build ID for the version you are playing, and be in this folder: `/atmosphere/contents/0100F43008C44000/cheats/`
+
 For emulation, please refer to documentation for your chosen emulator.
 
 ## 10 - How do I use the Pokemon Encounter Codes? I put one in my cheat file and it isn't working!
 The encounter codes provided in this repo are designed to be used with another set of codes, which can be found in the cheat file here: https://gbatemp.net/threads/pokemon-legends-z-a-cheat-database.675579/#post-10732980
 
-Grab the 'Recovery Code' and 'Always Encounter Pokemon' codes from that cheat file, along with any others you wish to use. To spawn Pokemon of your choosing, activate the 'Always Encounter Pokemon' code first, and then activate the encounter code of your choosing. Following this, teleport to a new location to refresh spawns. You should now be seeing the Pokemon of your choosing.
+Grab the 'Recovery Code' and 'Always Encounter Pokemon' codes from the cheat file matching the version you are playing, along with any others you wish to use. To spawn Pokemon of your choosing, activate the 'Always Encounter Pokemon' code first, and then activate the encounter code of your choosing. Following this, teleport to a new location to refresh spawns. You should now be seeing the Pokemon of your choosing.
 
 Once you are finished, disable the encounter code and 'Always Encounter Pokemon' code, then enable the 'Recovery Code' to reset the memory values back to normal. This will disable the encounter codes and eliminate the possibility of long term problems caused by memory editing.

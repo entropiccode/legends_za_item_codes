@@ -78,6 +78,8 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 #### Updates
 - Overhauled the overall structure of the repo. Code files for a given version can now be found in folders corresponding to the version they work with. Reference files remain in the root directory of the repo.
 - Updated patch 1.0.1 encounter codes referencing a specific forme to use a more condensed code structure, reducing the overall side of encounter codes targetting a specific forme by 33%. Patch 1.0.2 encounter codes were generated in this new format.
+- Adjusted FAQ wording to reflect the fact that there is no longer a single version (version 1.0.0 is functionally the same as 1.0.1 when it comes to cheat files and codes).
+- Adjusted README wording to reflect the fact that there is no longer a singular version.
 #### Removals
 - Removed the blank cheat file.
 #### Fixes
