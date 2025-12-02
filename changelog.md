@@ -84,3 +84,14 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Removed the blank cheat file.
 #### Fixes
 - Added item codes for patch 1.0.2. Addresses issue #3.
+
+---
+
+### December 2nd
+#### New
+- Patch 1.0.3 is here! Added new item codes and pokemon encounter codes compatible with this version.
+#### Updates
+- Updated credits file to give thanks to Az91 and Patjenova for their work, updating the codes is far easier thanks to the work they have already done.
+- Updated FAQ to include information on patch 1.0.3.
+#### Fixes
+- Added item codes for patch 1.0.3. Addresses issue #4.

@@ -37,9 +37,13 @@ The following will put the '990x Rare Candy' and '990x Exp. Candy XL' codes into
 ## Credits
 [Stoned](https://gbatemp.net/members/stoned.347253/) - Created the original known-good item codes that these item codes are based on.
 
-[dsrules](https://gbatemp.net/members/dsrules.31620/) - Provided the correct values for each category and provided the condensed code format.
+[dsrules](https://gbatemp.net/members/dsrules.31620/) - Provided the correct values for each category and provided the condensed code format for versions 1.0.0/1.0.1.
 
 [azalea_](https://gbatemp.net/members/azalea_.771689/) - Provided an item list dumped directly from game files. This list has been used to verify that the item codes in this repo represent a complete collection of all items currently available in Legends ZA (as of version 1.0.1)
+
+[Az91](https://gbatemp.net/members/az91.723200/) - Created the item codes for 1.0.3 which the version 1.0.3 item codes are based on.
+
+[Patjenova](https://gbatemp.net/members/patjenova.459346/) - Created the original species spawn modifier codes and the encounter modifier codes that the ones in this repo are based on.
 
 ## Distribution
 I am fine with these codes being posted elsewhere, however I ask that if you do so, please credit me (envyUK or entropiccodes) and/or link back to this repository.

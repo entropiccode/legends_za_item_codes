@@ -1,0 +1,856 @@
+Use these codes alongside the "Always Encounter Pokemon" code found here: https://gbatemp.net/threads/pokemon-legends-z-a-cheat-database.675579/
+
+[Encounter Chikorita]
+040A0000 02FC9FA8 00000098
+
+[Encounter Bayleef]
+040A0000 02FC9FA8 00000099
+
+[Encounter Meganium]
+040A0000 02FC9FA8 0000009A
+
+[Encounter Tepig]
+040A0000 02FC9FA8 000001F2
+
+[Encounter Pignite]
+040A0000 02FC9FA8 000001F3
+
+[Encounter Emboar]
+040A0000 02FC9FA8 000001F4
+
+[Encounter Totodile]
+040A0000 02FC9FA8 0000009E
+
+[Encounter Croconaw]
+040A0000 02FC9FA8 0000009F
+
+[Encounter Feraligatr]
+040A0000 02FC9FA8 000000A0
+
+[Encounter Fletchling]
+040A0000 02FC9FA8 00000295
+
+[Encounter Fletchinder]
+040A0000 02FC9FA8 00000296
+
+[Encounter Talonflame]
+040A0000 02FC9FA8 00000297
+
+[Encounter Bunnelby]
+040A0000 02FC9FA8 00000293
+
+[Encounter Diggersby]
+040A0000 02FC9FA8 00000294
+
+[Encounter Scatterbug]
+040A0000 02FC9FA8 00000298
+
+[Encounter Spewpa]
+040A0000 02FC9FA8 00000299
+
+[Encounter Vivillon Icy Snow Pattern]
+040A0000 02FC9FA8 0000029A
+
+[Encounter Vivillon Polar Pattern]
+080A0000 02FC9FA8 00000001 0000029A
+
+[Encounter Vivillon Tundra Pattern]
+080A0000 02FC9FA8 00000002 0000029A
+
+[Encounter Vivillon Continental Pattern]
+080A0000 02FC9FA8 00000003 0000029A
+
+[Encounter Vivillon Garden Pattern]
+080A0000 02FC9FA8 00000004 0000029A
+
+[Encounter Vivillon Elegant Pattern]
+080A0000 02FC9FA8 00000005 0000029A
+
+[Encounter Vivillon Meadow Pattern]
+080A0000 02FC9FA8 00000006 0000029A
+
+[Encounter Vivillon Modern Pattern]
+080A0000 02FC9FA8 00000007 0000029A
+
+[Encounter Vivillon Marine Pattern]
+080A0000 02FC9FA8 00000008 0000029A
+
+[Encounter Vivillon Archipelago Pattern]
+080A0000 02FC9FA8 00000009 0000029A
+
+[Encounter Vivillon High Plains Pattern]
+080A0000 02FC9FA8 0000000A 0000029A
+
+[Encounter Vivillon Sandstorm Pattern]
+080A0000 02FC9FA8 0000000B 0000029A
+
+[Encounter Vivillon River Pattern]
+080A0000 02FC9FA8 0000000C 0000029A
+
+[Encounter Vivillon Monsoon Pattern]
+080A0000 02FC9FA8 0000000D 0000029A
+
+[Encounter Vivillon Savanna Pattern]
+080A0000 02FC9FA8 0000000E 0000029A
+
+[Encounter Vivillon Sun Pattern]
+080A0000 02FC9FA8 0000000F 0000029A
+
+[Encounter Vivillon Ocean Pattern]
+080A0000 02FC9FA8 00000010 0000029A
+
+[Encounter Vivillon Jungle Pattern]
+080A0000 02FC9FA8 00000011 0000029A
+
+[Encounter Vivillon Fancy Pattern]
+080A0000 02FC9FA8 00000012 0000029A
+
+[Encounter Vivillon Poke Ball Pattern]
+080A0000 02FC9FA8 00000013 0000029A
+
+[Encounter Weedle]
+040A0000 02FC9FA8 0000000D
+
+[Encounter Kakuna]
+040A0000 02FC9FA8 0000000E
+
+[Encounter Beedrill]
+040A0000 02FC9FA8 0000000F
+
+[Encounter Pidgey]
+040A0000 02FC9FA8 00000010
+
+[Encounter Pidgeotto]
+040A0000 02FC9FA8 00000011
+
+[Encounter Pidgeot]
+040A0000 02FC9FA8 00000012
+
+[Encounter Mareep]
+040A0000 02FC9FA8 000000B3
+
+[Encounter Flaaffy]
+040A0000 02FC9FA8 000000B4
+
+[Encounter Ampharos]
+040A0000 02FC9FA8 000000B5
+
+[Encounter Patrat]
+040A0000 02FC9FA8 000001F8
+
+[Encounter Watchog]
+040A0000 02FC9FA8 000001F9
+
+[Encounter Budew]
+040A0000 02FC9FA8 00000196
+
+[Encounter Roselia]
+040A0000 02FC9FA8 0000013B
+
+[Encounter Roserade]
+040A0000 02FC9FA8 00000197
+
+[Encounter Magikarp]
+040A0000 02FC9FA8 00000081
+
+[Encounter Gyarados]
+040A0000 02FC9FA8 00000082
+
+[Encounter Binacle]
+040A0000 02FC9FA8 000002B0
+
+[Encounter Barbaracle]
+040A0000 02FC9FA8 000002B1
+
+[Encounter Staryu]
+040A0000 02FC9FA8 00000078
+
+[Encounter Starmie]
+040A0000 02FC9FA8 00000079
+
+[Encounter Flabébé Red Flower]
+040A0000 02FC9FA8 0000029D
+
+[Encounter Flabébé Yellow Flower]
+080A0000 02FC9FA8 00000001 0000029D
+
+[Encounter Flabébé Orange Flower]
+080A0000 02FC9FA8 00000002 0000029D
+
+[Encounter Flabébé Blue Flower]
+080A0000 02FC9FA8 00000003 0000029D
+
+[Encounter Flabébé White Flower]
+080A0000 02FC9FA8 00000004 0000029D
+
+[Encounter Floette Red Flower]
+040A0000 02FC9FA8 0000029E
+
+[Encounter Floette Yellow Flower]
+080A0000 02FC9FA8 00000001 0000029E
+
+[Encounter Floette Orange Flower]
+080A0000 02FC9FA8 00000002 0000029E
+
+[Encounter Floette Blue Flower]
+080A0000 02FC9FA8 00000003 0000029E
+
+[Encounter Floette White Flower]
+080A0000 02FC9FA8 00000004 0000029E
+
+[Encounter Floette Eternal Flower]
+080A0000 02FC9FA8 00000005 0000029E
+
+[Encounter Florges Red Flower]
+040A0000 02FC9FA8 0000029F
+
+[Encounter Florges Yellow Flower]
+080A0000 02FC9FA8 00000001 0000029F
+
+[Encounter Florges Orange Flower]
+080A0000 02FC9FA8 00000002 0000029F
+
+[Encounter Florges Blue Flower]
+080A0000 02FC9FA8 00000003 0000029F
+
+[Encounter Florges White Flower]
+080A0000 02FC9FA8 00000004 0000029F
+
+[Encounter Skiddo]
+040A0000 02FC9FA8 000002A0
+
+[Encounter Gogoat]
+040A0000 02FC9FA8 000002A1
+
+[Encounter Espurr]
+040A0000 02FC9FA8 000002A5
+
+[Encounter Meowstic]
+040A0000 02FC9FA8 000002A6
+
+[Encounter Litleo]
+040A0000 02FC9FA8 0000029B
+
+[Encounter Pyroar]
+040A0000 02FC9FA8 0000029C
+
+[Encounter Pancham]
+040A0000 02FC9FA8 000002A2
+
+[Encounter Pangoro]
+040A0000 02FC9FA8 000002A3
+
+[Encounter Trubbish]
+040A0000 02FC9FA8 00000238
+
+[Encounter Garbodor]
+040A0000 02FC9FA8 00000239
+
+[Encounter Dedenne]
+040A0000 02FC9FA8 000002BE
+
+[Encounter Pichu]
+040A0000 02FC9FA8 000000AC
+
+[Encounter Pikachu]
+040A0000 02FC9FA8 00000019
+
+[Encounter Raichu]
+040A0000 02FC9FA8 0000001A
+
+[Encounter Alolan Raichu]
+080A0000 02FC9FA8 00000001 0000001A
+
+[Encounter Cleffa]
+040A0000 02FC9FA8 000000AD
+
+[Encounter Clefairy]
+040A0000 02FC9FA8 00000023
+
+[Encounter Clefable]
+040A0000 02FC9FA8 00000024
+
+[Encounter Spinarak]
+040A0000 02FC9FA8 000000A7
+
+[Encounter Ariados]
+040A0000 02FC9FA8 000000A8
+
+[Encounter Ekans]
+040A0000 02FC9FA8 00000017
+
+[Encounter Arbok]
+040A0000 02FC9FA8 00000018
+
+[Encounter Abra]
+040A0000 02FC9FA8 0000003F
+
+[Encounter Kadabra]
+040A0000 02FC9FA8 00000040
+
+[Encounter Alakazam]
+040A0000 02FC9FA8 00000041
+
+[Encounter Gastly]
+040A0000 02FC9FA8 0000005C
+
+[Encounter Haunter]
+040A0000 02FC9FA8 0000005D
+
+[Encounter Gengar]
+040A0000 02FC9FA8 0000005E
+
+[Encounter Venipede]
+040A0000 02FC9FA8 0000021F
+
+[Encounter Whirlipede]
+040A0000 02FC9FA8 00000220
+
+[Encounter Scolipede]
+040A0000 02FC9FA8 00000221
+
+[Encounter Honedge]
+040A0000 02FC9FA8 000002A7
+
+[Encounter Doublade]
+040A0000 02FC9FA8 000002A8
+
+[Encounter Aegislash]
+040A0000 02FC9FA8 000002A9
+
+[Encounter Bellsprout]
+040A0000 02FC9FA8 00000045
+
+[Encounter Weepinbell]
+040A0000 02FC9FA8 00000046
+
+[Encounter Victreebel]
+040A0000 02FC9FA8 00000047
+
+[Encounter Pansage]
+040A0000 02FC9FA8 000001FF
+
+[Encounter Simisage]
+040A0000 02FC9FA8 00000200
+
+[Encounter Pansear]
+040A0000 02FC9FA8 00000201
+
+[Encounter Simisear]
+040A0000 02FC9FA8 00000202
+
+[Encounter Panpour]
+040A0000 02FC9FA8 00000203
+
+[Encounter Simipour]
+040A0000 02FC9FA8 00000204
+
+[Encounter Meditite]
+040A0000 02FC9FA8 00000133
+
+[Encounter Medicham]
+040A0000 02FC9FA8 00000134
+
+[Encounter Electrike]
+040A0000 02FC9FA8 00000135
+
+[Encounter Manectric]
+040A0000 02FC9FA8 00000136
+
+[Encounter Ralts]
+040A0000 02FC9FA8 00000118
+
+[Encounter Kirlia]
+040A0000 02FC9FA8 00000119
+
+[Encounter Gardevoir]
+040A0000 02FC9FA8 0000011A
+
+[Encounter Gallade]
+040A0000 02FC9FA8 000001DB
+
+[Encounter Houndour]
+040A0000 02FC9FA8 000000E4
+
+[Encounter Houndoom]
+040A0000 02FC9FA8 000000E5
+
+[Encounter Swablu]
+040A0000 02FC9FA8 0000014D
+
+[Encounter Altaria]
+040A0000 02FC9FA8 0000014E
+
+[Encounter Audino]
+040A0000 02FC9FA8 00000213
+
+[Encounter Spritzee]
+040A0000 02FC9FA8 000002AA
+
+[Encounter Aromatisse]
+040A0000 02FC9FA8 000002AB
+
+[Encounter Swirlix]
+040A0000 02FC9FA8 000002AC
+
+[Encounter Slurpuff]
+040A0000 02FC9FA8 000002AD
+
+[Encounter Eevee]
+040A0000 02FC9FA8 00000085
+
+[Encounter Vaporeon]
+040A0000 02FC9FA8 00000086
+
+[Encounter Jolteon]
+040A0000 02FC9FA8 00000087
+
+[Encounter Flareon]
+040A0000 02FC9FA8 00000088
+
+[Encounter Espeon]
+040A0000 02FC9FA8 000000C4
+
+[Encounter Umbreon]
+040A0000 02FC9FA8 000000C5
+
+[Encounter Leafeon]
+040A0000 02FC9FA8 000001D6
+
+[Encounter Glaceon]
+040A0000 02FC9FA8 000001D7
+
+[Encounter Sylveon]
+040A0000 02FC9FA8 000002BC
+
+[Encounter Buneary]
+040A0000 02FC9FA8 000001AB
+
+[Encounter Lopunny]
+040A0000 02FC9FA8 000001AC
+
+[Encounter Shuppet]
+040A0000 02FC9FA8 00000161
+
+[Encounter Banette]
+040A0000 02FC9FA8 00000162
+
+[Encounter Vanillite]
+040A0000 02FC9FA8 00000246
+
+[Encounter Vanillish]
+040A0000 02FC9FA8 00000247
+
+[Encounter Vanilluxe]
+040A0000 02FC9FA8 00000248
+
+[Encounter Numel]
+040A0000 02FC9FA8 00000142
+
+[Encounter Camerupt]
+040A0000 02FC9FA8 00000143
+
+[Encounter Hippopotas]
+040A0000 02FC9FA8 000001C1
+
+[Encounter Hippowdon]
+040A0000 02FC9FA8 000001C2
+
+[Encounter Drilbur]
+040A0000 02FC9FA8 00000211
+
+[Encounter Excadrill]
+040A0000 02FC9FA8 00000212
+
+[Encounter Sandile]
+040A0000 02FC9FA8 00000227
+
+[Encounter Krokorok]
+040A0000 02FC9FA8 00000228
+
+[Encounter Krookodile]
+040A0000 02FC9FA8 00000229
+
+[Encounter Machop]
+040A0000 02FC9FA8 00000042
+
+[Encounter Machoke]
+040A0000 02FC9FA8 00000043
+
+[Encounter Machamp]
+040A0000 02FC9FA8 00000044
+
+[Encounter Gible]
+040A0000 02FC9FA8 000001BB
+
+[Encounter Gabite]
+040A0000 02FC9FA8 000001BC
+
+[Encounter Garchomp]
+040A0000 02FC9FA8 000001BD
+
+[Encounter Carbink]
+040A0000 02FC9FA8 000002BF
+
+[Encounter Sableye]
+040A0000 02FC9FA8 0000012E
+
+[Encounter Mawile]
+040A0000 02FC9FA8 0000012F
+
+[Encounter Absol]
+040A0000 02FC9FA8 00000167
+
+[Encounter Riolu]
+040A0000 02FC9FA8 000001BF
+
+[Encounter Lucario]
+040A0000 02FC9FA8 000001C0
+
+[Encounter Slowpoke]
+040A0000 02FC9FA8 0000004F
+
+[Encounter Galarian Slowpoke]
+080A0000 02FC9FA8 00000001 0000004F
+
+[Encounter Slowbro]
+040A0000 02FC9FA8 00000050
+
+[Encounter Galarian Slowbro]
+080A0000 02FC9FA8 00000001 00000050
+
+[Encounter Slowking]
+040A0000 02FC9FA8 000000C7
+
+[Encounter Galarian Slowking]
+080A0000 02FC9FA8 00000001 000000C7
+
+[Encounter Carvanha]
+040A0000 02FC9FA8 0000013E
+
+[Encounter Sharpedo]
+040A0000 02FC9FA8 0000013F
+
+[Encounter Tynamo]
+040A0000 02FC9FA8 0000025A
+
+[Encounter Eelektrik]
+040A0000 02FC9FA8 0000025B
+
+[Encounter Eelektross]
+040A0000 02FC9FA8 0000025C
+
+[Encounter Dratini]
+040A0000 02FC9FA8 00000093
+
+[Encounter Dragonair]
+040A0000 02FC9FA8 00000094
+
+[Encounter Dragonite]
+040A0000 02FC9FA8 00000095
+
+[Encounter Bulbasaur]
+040A0000 02FC9FA8 00000001
+
+[Encounter Ivysaur]
+040A0000 02FC9FA8 00000002
+
+[Encounter Venusaur]
+040A0000 02FC9FA8 00000003
+
+[Encounter Charmander]
+040A0000 02FC9FA8 00000004
+
+[Encounter Charmeleon]
+040A0000 02FC9FA8 00000005
+
+[Encounter Charizard]
+040A0000 02FC9FA8 00000006
+
+[Encounter Squirtle]
+040A0000 02FC9FA8 00000007
+
+[Encounter Wartortle]
+040A0000 02FC9FA8 00000008
+
+[Encounter Blastoise]
+040A0000 02FC9FA8 00000009
+
+[Encounter Stunfisk]
+040A0000 02FC9FA8 0000026A
+
+[Encounter Galarian Stunfisk]
+080A0000 02FC9FA8 00000001 0000026A
+
+[Encounter Furfrou]
+040A0000 02FC9FA8 000002A4
+
+[Encounter Furfrou Heart Trim]
+080A0000 02FC9FA8 00000001 000002A4
+
+[Encounter Furfrou Star Trim]
+080A0000 02FC9FA8 00000002 000002A4
+
+[Encounter Furfrou Diamond Trim]
+080A0000 02FC9FA8 00000003 000002A4
+
+[Encounter Furfrou Debutante Trim]
+080A0000 02FC9FA8 00000004 000002A4
+
+[Encounter Furfrou Matron Trim]
+080A0000 02FC9FA8 00000005 000002A4
+
+[Encounter Furfrou Dandy Trim]
+080A0000 02FC9FA8 00000006 000002A4
+
+[Encounter Furfrou La Reine Trim]
+080A0000 02FC9FA8 00000007 000002A4
+
+[Encounter Furfrou Kabuki Trim]
+080A0000 02FC9FA8 00000008 000002A4
+
+[Encounter Furfrou Pharaoh Trim]
+080A0000 02FC9FA8 00000009 000002A4
+
+[Encounter Inkay]
+040A0000 02FC9FA8 000002AE
+
+[Encounter Malamar]
+040A0000 02FC9FA8 000002AF
+
+[Encounter Skrelp]
+040A0000 02FC9FA8 000002B2
+
+[Encounter Dragalge]
+040A0000 02FC9FA8 000002B3
+
+[Encounter Clauncher]
+040A0000 02FC9FA8 000002B4
+
+[Encounter Clawitzer]
+040A0000 02FC9FA8 000002B5
+
+[Encounter Goomy]
+040A0000 02FC9FA8 000002C0
+
+[Encounter Sliggoo]
+040A0000 02FC9FA8 000002C1
+
+[Encounter Hisuian Sliggoo]
+080A0000 02FC9FA8 00000001 000002C1
+
+[Encounter Goodra]
+040A0000 02FC9FA8 000002C2
+
+[Encounter Hisuian Goodra]
+080A0000 02FC9FA8 00000001 000002C2
+
+[Encounter Delibird]
+040A0000 02FC9FA8 000000E1
+
+[Encounter Snorunt]
+040A0000 02FC9FA8 00000169
+
+[Encounter Glalie]
+040A0000 02FC9FA8 0000016A
+
+[Encounter Froslass]
+040A0000 02FC9FA8 000001DE
+
+[Encounter Snover]
+040A0000 02FC9FA8 000001CB
+
+[Encounter Abomasnow]
+040A0000 02FC9FA8 000001CC
+
+[Encounter Bergmite]
+040A0000 02FC9FA8 000002C8
+
+[Encounter Avalugg]
+040A0000 02FC9FA8 000002C9
+
+[Encounter Hisuian Avalugg]
+080A0000 02FC9FA8 00000001 000002C9
+
+[Encounter Scyther]
+040A0000 02FC9FA8 0000007B
+
+[Encounter Scizor]
+040A0000 02FC9FA8 000000D4
+
+[Encounter Pinsir]
+040A0000 02FC9FA8 0000007F
+
+[Encounter Heracross]
+040A0000 02FC9FA8 000000D6
+
+[Encounter Emolga]
+040A0000 02FC9FA8 0000024B
+
+[Encounter Hawlucha]
+040A0000 02FC9FA8 000002BD
+
+[Encounter Phantump]
+040A0000 02FC9FA8 000002C4
+
+[Encounter Trevenant]
+040A0000 02FC9FA8 000002C5
+
+[Encounter Scraggy]
+040A0000 02FC9FA8 0000022F
+
+[Encounter Scrafty]
+040A0000 02FC9FA8 00000230
+
+[Encounter Noibat]
+040A0000 02FC9FA8 000002CA
+
+[Encounter Noivern]
+040A0000 02FC9FA8 000002CB
+
+[Encounter Klefki]
+040A0000 02FC9FA8 000002C3
+
+[Encounter Litwick]
+040A0000 02FC9FA8 0000025F
+
+[Encounter Lampent]
+040A0000 02FC9FA8 00000260
+
+[Encounter Chandelure]
+040A0000 02FC9FA8 00000261
+
+[Encounter Aerodactyl]
+040A0000 02FC9FA8 0000008E
+
+[Encounter Tyrunt]
+040A0000 02FC9FA8 000002B8
+
+[Encounter Tyrantrum]
+040A0000 02FC9FA8 000002B9
+
+[Encounter Amaura]
+040A0000 02FC9FA8 000002BA
+
+[Encounter Aurorus]
+040A0000 02FC9FA8 000002BB
+
+[Encounter Onix]
+040A0000 02FC9FA8 0000005F
+
+[Encounter Steelix]
+040A0000 02FC9FA8 000000D0
+
+[Encounter Aron]
+040A0000 02FC9FA8 00000130
+
+[Encounter Lairon]
+040A0000 02FC9FA8 00000131
+
+[Encounter Aggron]
+040A0000 02FC9FA8 00000132
+
+[Encounter Helioptile]
+040A0000 02FC9FA8 000002B6
+
+[Encounter Heliolisk]
+040A0000 02FC9FA8 000002B7
+
+[Encounter Pumpkaboo]
+040A0000 02FC9FA8 000002C6
+
+[Encounter Gourgeist]
+040A0000 02FC9FA8 000002C7
+
+[Encounter Larvitar]
+040A0000 02FC9FA8 000000F6
+
+[Encounter Pupitar]
+040A0000 02FC9FA8 000000F7
+
+[Encounter Tyranitar]
+040A0000 02FC9FA8 000000F8
+
+[Encounter Froakie]
+040A0000 02FC9FA8 00000290
+
+[Encounter Frogadier]
+040A0000 02FC9FA8 00000291
+
+[Encounter Greninja]
+040A0000 02FC9FA8 00000292
+
+[Encounter Falinks]
+040A0000 02FC9FA8 00000366
+
+[Encounter Chespin]
+040A0000 02FC9FA8 0000028A
+
+[Encounter Quilladin]
+040A0000 02FC9FA8 0000028B
+
+[Encounter Chesnaught]
+040A0000 02FC9FA8 0000028C
+
+[Encounter Skarmory]
+040A0000 02FC9FA8 000000E3
+
+[Encounter Fennekin]
+040A0000 02FC9FA8 0000028D
+
+[Encounter Braixen]
+040A0000 02FC9FA8 0000028E
+
+[Encounter Delphox]
+040A0000 02FC9FA8 0000028F
+
+[Encounter Bagon]
+040A0000 02FC9FA8 00000173
+
+[Encounter Shelgon]
+040A0000 02FC9FA8 00000174
+
+[Encounter Salamence]
+040A0000 02FC9FA8 00000175
+
+[Encounter Kangaskhan]
+040A0000 02FC9FA8 00000073
+
+[Encounter Drampa]
+040A0000 02FC9FA8 0000030C
+
+[Encounter Beldum]
+040A0000 02FC9FA8 00000176
+
+[Encounter Metang]
+040A0000 02FC9FA8 00000177
+
+[Encounter Metagross]
+040A0000 02FC9FA8 00000178
+
+[Encounter Xerneas]
+040A0000 02FC9FA8 000002CC
+
+[Encounter Yveltal]
+040A0000 02FC9FA8 000002CD
+
+[Encounter Zygarde 10%]
+080A0000 02FC9FA8 00000001 000002CE
+
+[Encounter Zygarde 50%]
+040A0000 02FC9FA8 000002CE
+
+[Encounter Zygarde 100%]
+080A0000 02FC9FA8 00000004 000002CE
+
+[Encounter Diancie]
+040A0000 02FC9FA8 000002CF
+
+[Encounter Mewtwo]
+040A0000 02FC9FA8 00000096
+
+[Encounter Hoopa]
+040A0000 02FC9FA8 000002D0
+
+[Encounter Volcanion]
+040A0000 02FC9FA8 000002D1
