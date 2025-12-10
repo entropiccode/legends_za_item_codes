@@ -103,5 +103,7 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Added item codes and remove item codes for the new Mega Stones.
 - Added item codes for some new held items that I've been able to confirm (there may be more as some are old items that weren't in ZA previously).
 - Added item code for new Medicine item, Canari Bread!
+- Added item codes and remove item codes for the new Key Items.
+- Added item code for Gimmighoul Coins.
 #### Updates
 - Updated FAQ to include information on patch 2.0.0.
