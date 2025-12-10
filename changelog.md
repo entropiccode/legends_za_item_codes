@@ -95,3 +95,9 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Updated FAQ to include information on patch 1.0.3.
 #### Fixes
 - Added item codes for patch 1.0.3. Addresses issue #4.
+
+### December 10th
+#### New
+- Patch 2.0.0 is here! Added new item codes and pokemon encounter codes compatible with this version. Please note that these are only updates to existing codes, these do not yet include codes for new items or Pokemon added in the DLC!
+#### Updates
+- Updated FAQ to include information on patch 2.0.0.
