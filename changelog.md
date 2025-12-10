@@ -99,5 +99,6 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 ### December 10th
 #### New
 - Patch 2.0.0 is here! Added new item codes and pokemon encounter codes compatible with this version. Please note that these are only updates to existing codes, these do not yet include codes for new items or Pokemon added in the DLC!
+- Added item codes for the new Hyperspace berries.
 #### Updates
 - Updated FAQ to include information on patch 2.0.0.
