@@ -101,5 +101,6 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Patch 2.0.0 is here! Added new item codes and pokemon encounter codes compatible with this version. Please note that these are only updates to existing codes, these do not yet include codes for new items or Pokemon added in the DLC!
 - Added item codes for the new Hyperspace berries.
 - Added item codes and remove item codes for the new Mega Stones.
+- Added item codes for some new held items that I've been able to confirm (there may be more as some are old items that weren't in ZA previously).
 #### Updates
 - Updated FAQ to include information on patch 2.0.0.
