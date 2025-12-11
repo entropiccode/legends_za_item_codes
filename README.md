@@ -1,7 +1,9 @@
 # Legends ZA Item Codes
-These files represent individual Legends ZA item codes for use with cheat tools on Switch CFW. I have been told these are compatible with emulation tools as well, however I cannot confirm.
+These files represent individual Legends ZA item codes and Pokemon encounter codes for use with cheat tools on Switch CFW.
 
-These codes can be used even if you have not found the item in question. We now have a better understanding of the internal inventory data, and as such these codes have been built to avoid inventory corruption in saves. Furthermore, I have tested each of these codes myself on switch hardware and can confirm they do not cause save corruption.
+These are not ASM codes so will work on all emulators that properly support cheats. If you are having problems, please refer to the FAQ for general troubleshooting steps you can follow, but please note that I will not offer emulator specific support if you are unable to get the codes to work.
+
+***These codes will not corrupt your save***. This has been tested extensively.
 
 ## How to Use
 The provided files should not be used as is unless you only need a very specific set of items and only those items. Instead, pick and choose the codes you want and add them to your cheat file.
@@ -16,7 +18,7 @@ If you are using Edizon overlay to manage your cheats, you can put cheats into s
 
 ```
 [--SectionStart:XP/Leveling Items--]
-00000000 00000000 00000000
+20000000
 
 [990x Rare Candy]
 580F0000 041F0A60
@@ -29,7 +31,7 @@ If you are using Edizon overlay to manage your cheats, you can put cheats into s
 680F0000 000003DE 00000002
 
 [--SectionEnd:XP/Leveling Items--]
-00000000 00000000 00000000
+20000000
 ```
 
 The following will put the '990x Rare Candy' and '990x Exp. Candy XL' codes into a sub folder called "XP/Leveling Items" in the cheat menu. **This does not work on emulators**.
@@ -46,4 +48,5 @@ The following will put the '990x Rare Candy' and '990x Exp. Candy XL' codes into
 [Patjenova](https://gbatemp.net/members/patjenova.459346/) - Created the original species spawn modifier codes and the encounter modifier codes that the ones in this repo are based on.
 
 ## Distribution
-I am fine with these codes being posted elsewhere, however I ask that if you do so, please credit me (envyUK or entropiccodes) and/or link back to this repository.
+You do not have permission to upload these cheats to Cheatslips.com or affiliated sites.
+Beyond that, I am fine with these codes being shared, however I ask that if you do so, please credit me (envyUK or entropiccodes) and link back to this repository.

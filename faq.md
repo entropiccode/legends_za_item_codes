@@ -4,7 +4,16 @@
 The build ID for 1.0.0 is identical to 1.0.1, so the codes for 1.0.1 will work on 1.0.0.
 
 ## 2 - Do these codes work on emulator?
-While I have not directly confirmed myself, many others have reported these codes working as intended on multiple different emulators.
+They are not ASM codes, so they will work on emulators that have proper cheat support implemented. If you are having problems, here are some generated steps to follow:
+
+1 - Make sure your emulator is up to date. If there is a nightly build available, try using that.
+2 - Make sure your cheat folders are setup properly. This can vary from emulator to emulator, Google documentation for your specific program.
+3 - Make sure your cheat files are setup properly. Most, if not all emulators follow the standard used on the Switch, which is to reference a text file named after the build ID of the game version being played.
+Please refer to the table in Question 5 for individual build IDs for different patch versions.
+4 - Try a fresh cheat file, especially if you have been trying to use codes from sites such as cheatslips.com. Add only the codes you want to use from this repo and nothing else. If you have section breaks in your cheat file, remove them as those are a feature specific to the EdiZon cheat software on Switch hardware and can prevent cheats from working on emulators.
+5 - Disable any mods you may have installed. Cheatdebugmenu is specifically known to break cheat codes.
+
+If you are still having problems after following these steps, you will need to do further troubleshooting on your own, as I do not play on emulator and cannot provide further support. Please note that any issues opened on this repo asking for emulator specific support will be closed without response.
 
 ## 3 - Can I use these codes if I don't already have the item? Will these corrupt my save?
 Yes, you can use these codes even if you do not have the item already, and no, they will not corrupt your save.

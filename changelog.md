@@ -112,3 +112,5 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 #### Updates
 - Updated FAQ to include information on patch 2.0.0.
 - Updated 2.0.0 Gimmighoul Coin code to give 999 Coins.
+- Updated the README to better clarify code functionality on emulators, and improved the tutorial on EdiZon subfolders for cheat files.
+- Updated the FAQ to provide generalized troubleshooting for use with emulators.
