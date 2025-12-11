@@ -105,6 +105,8 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Added item code for new Medicine item, Canari Bread!
 - Added item codes and remove item codes for the new Key Items.
 - Added item code for Gimmighoul Coins.
+- Added item codes for new Evolution items.
+- Added encounter codes for some of the new Pokemon in the DLC. Paldaen pokemon are currently missing as their encounter codes are not working properly at time of writing.
 #### Updates
 - Updated FAQ to include information on patch 2.0.0.
 - Updated 2.0.0 Gimmighoul Coin code to give 999 Coins.
