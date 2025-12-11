@@ -49,4 +49,5 @@ The following will put the '990x Rare Candy' and '990x Exp. Candy XL' codes into
 
 ## Distribution
 You do not have permission to upload these cheats to Cheatslips.com or affiliated sites.
+
 Beyond that, I am fine with these codes being shared, however I ask that if you do so, please credit me (envyUK or entropiccodes) and link back to this repository.
