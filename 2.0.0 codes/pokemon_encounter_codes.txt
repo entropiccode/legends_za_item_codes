@@ -864,6 +864,9 @@ Use these codes alongside the "Always Encounter Pokemon" code found here: https:
 [Encounter Primeape]
 040A0000 0315EFA8 00000039
 
+[Encounter Annihilape]
+040A0000 0315EFA8 000003F2
+
 [Encounter Meowth]
 040A0000 0315EFA8 00000034
 
@@ -906,6 +909,30 @@ Use these codes alongside the "Always Encounter Pokemon" code found here: https:
 [Encounter Porygon-Z]
 040A0000 0315EFA8 000001DA
 
+[Encounter Capsakid]
+040A0000 0315EFA8 000003AA
+
+[Encounter Scovillain]
+040A0000 0315EFA8 000003AB
+
+[Encounter Tinkatink]
+040A0000 0315EFA8 000003E8
+
+[Encounter Tinkatuff]
+040A0000 0315EFA8 000003E9
+
+[Encounter Tinkaton]
+040A0000 0315EFA8 000003EA
+
+[Encounter Cyclizar]
+040A0000 0315EFA8 000003B9
+
+[Encounter Glimmet]
+040A0000 0315EFA8 000003C6
+
+[Encounter Glimmora]
+040A0000 0315EFA8 000003C7
+
 [Encounter Rotom]
 040A0000 0315EFA8 000001DF
 
@@ -924,6 +951,12 @@ Use these codes alongside the "Always Encounter Pokemon" code found here: https:
 [Encounter Rotom Mow]
 080A0000 0315EFA8 00000005 000001DF
 
+[Encounter Greavard]
+040A0000 0315EFA8 0000039C
+
+[Encounter Houndstone]
+040A0000 0315EFA8 0000039D
+
 [Encounter Sandygast]
 040A0000 0315EFA8 00000301
 
@@ -933,8 +966,41 @@ Use these codes alongside the "Always Encounter Pokemon" code found here: https:
 [Encounter Kecleon]
 040A0000 0315EFA8 00000160
 
+[Encounter Flamigo]
+040A0000 0315EFA8 000026E9
+
 [Encounter Cryogonal]
 040A0000 0315EFA8 00000267
+
+[Encounter Dondozo]
+040A0000 0315EFA8 000003A3
+
+[Encounter Tatsugiri Curly]
+040A0000 0315EFA8 000003B8
+
+[Encounter Tatsugiri Droopy]
+080A0000 0315EFA8 00000001 000003B8
+
+[Encounter Tatsugiri Stretch]
+080A0000 0315EFA8 00000002 000003B8
+
+[Encounter Frigibax]
+040A0000 0315EFA8 000003B5
+
+[Encounter Arctibax]
+040A0000 0315EFA8 000003B6
+
+[Encounter Baxcalibur]
+040A0000 0315EFA8 000003B7
+
+[Encounter Gimmighoul Chest]
+040A0000 0315EFA8 000003D0
+
+[Encounter Gimmighoul Roaming]
+080A0000 0315EFA8 00000001 000003D0
+
+[Encounter Gholdengo]
+040A0000 0315EFA8 000003D1
 
 [Encounter Qwilfish]
 040A0000 0315EFA8 000000D3
@@ -1068,6 +1134,12 @@ Use these codes alongside the "Always Encounter Pokemon" code found here: https:
 [Encounter Wigglytuff]
 040A0000 0315EFA8 00000028
 
+[Encounter Fidough]
+040A0000 0315EFA8 000003CA
+
+[Encounter Dachsbun]
+040A0000 0315EFA8 000003CB
+
 [Encounter Starly]
 040A0000 0315EFA8 0000018C
 
@@ -1083,11 +1155,32 @@ Use these codes alongside the "Always Encounter Pokemon" code found here: https:
 [Encounter Grumpig]
 040A0000 0315EFA8 00000146
 
+[Encounter Squawkabilly Green Plumage]
+040A0000 0315EFA8 000003C0
+
+[Encounter Squawkabilly Blue Plumage]
+080A0000 0315EFA8 00000001 000003C0
+
+[Encounter Squawkabilly Yellow Plumage]
+080A0000 0315EFA8 00000002 000003C0
+
+[Encounter Squawkabilly White Plumage]
+080A0000 0315EFA8 00000003 000003C0
+
 [Encounter Crabrawler]
 040A0000 0315EFA8 000002E3
 
 [Encounter Crabominable]
 040A0000 0315EFA8 000002E4
+
+[Encounter Nacli]
+040A0000 0315EFA8 000003C3
+
+[Encounter Naclstack]
+040A0000 0315EFA8 000003C4
+
+[Encounter Garganacl]
+040A0000 0315EFA8 000003C5
 
 [Encounter Gulpin]
 040A0000 0315EFA8 0000013C
@@ -1104,6 +1197,21 @@ Use these codes alongside the "Always Encounter Pokemon" code found here: https:
 [Encounter Crobat]
 040A0000 0315EFA8 000000A9
 
+[Encounter Charcadet]
+040A0000 0315EFA8 000003EB
+
+[Encounter Armarouge]
+040A0000 0315EFA8 000003EC
+
+[Encounter Ceruledge]
+040A0000 0315EFA8 000003ED
+
+[Encounter Maschiff]
+040A0000 0315EFA8 000003CC
+
+[Encounter Mabosstiff]
+040A0000 0315EFA8 000003CD
+
 [Encounter Toxel]
 040A0000 0315EFA8 00000350
 
@@ -1112,6 +1220,12 @@ Use these codes alongside the "Always Encounter Pokemon" code found here: https:
 
 [Encounter Toxtricity Low Key]
 080A0000 0315EFA8 00000001 00000351
+
+[Encounter Shroodle]
+040A0000 0315EFA8 000003C8
+
+[Encounter Grafaiai]
+040A0000 0315EFA8 000003C9
 
 [Encounter Zangoose]
 040A0000 0315EFA8 0000014F
@@ -1199,4 +1313,3 @@ Use these codes alongside the "Always Encounter Pokemon" code found here: https:
 
 [Encounter Zeraora]
 040A0000 0315EFA8 00000327
-
