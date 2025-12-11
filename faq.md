@@ -26,7 +26,7 @@ Yes, you can use these codes even if you do not have the item already, and no, t
 Legends ZA has a specific method of handling and storing inventory data which early item codes created shortly after the game was leaked did not take into account. As such, those codes quite often corrupted saves after use. Fortunately we now understand the inventory logic far better and why those corruptions were happening. These item codes are designed to properly write items to your inventory, regardless of whether or not you already possess the item in question.
 
 ## 4 - My save got corrupted, can you help me?
-Backup your save and run it through the PLZA Recovery Tool here: https://pl.azalea.sh/  
+Backup your save and run it through the PLZA Recovery Tool here: https://pl.azalea.sh/
 
 Credits to [@azalea-w](https://github.com/azalea-w) for their amazing work on this.
 

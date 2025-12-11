@@ -109,6 +109,7 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Added encounter codes for some of the new Pokemon in the DLC. Paldaen pokemon are currently missing as their encounter codes are not working properly at time of writing.
 - Added item code for Prism Scale, Black Augurite, Malicious Armor and Auspicious Armor.
 - Added encounter codes for Paldean Pokemon! These were a pain in the ass to find (￣ヘ￣)
+- Added item code and remove item code for Rotom Catalog.
 #### Updates
 - Updated FAQ to include information on patch 2.0.0.
 - Updated 2.0.0 Gimmighoul Coin code to give 999 Coins.
