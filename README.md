@@ -47,6 +47,8 @@ The following will put the '990x Rare Candy' and '990x Exp. Candy XL' codes into
 
 [Patjenova](https://gbatemp.net/members/patjenova.459346/) - Created the original species spawn modifier codes and the encounter modifier codes that the ones in this repo are based on.
 
+[OblivionReign](https://gbatemp.net/members/oblivionreign.389168/) - Created the original Always Encounter code and the Restore Code used in the encounter code file contained in this repo. Furthermore, maintains a list of cheats for the game on gbatemp which you should visit - https://gbatemp.net/threads/pokemon-legends-z-a-cheat-database.675579/
+
 ## Distribution
 You do not have permission to upload these cheats to Cheatslips.com or affiliated sites.
 

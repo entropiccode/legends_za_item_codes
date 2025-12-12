@@ -115,3 +115,5 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Updated 2.0.0 Gimmighoul Coin code to give 999 Coins.
 - Updated the README to better clarify code functionality on emulators, and improved the tutorial on EdiZon subfolders for cheat files.
 - Updated the FAQ to provide generalized troubleshooting for use with emulators.
+- Updated encounter codes to work with updated Always Encounter code, added base Always Encounter code and Restore Code to encounter code list to ensure the version the codes are based on is always available.
+- Added OblivionReign to the credits (which is arguably something I should have done a long time ago).
