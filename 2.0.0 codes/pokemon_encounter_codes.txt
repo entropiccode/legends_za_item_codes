@@ -796,11 +796,29 @@ Enable the 'Always Encounter Pokemon' code and the individual encounter code of 
 [Encounter Heliolisk]
 040A0000 0315EFB8 000002B7
 
-[Encounter Pumpkaboo]
+[Encounter Pumpkaboo Medium]
 040A0000 0315EFB8 000002C6
 
-[Encounter Gourgeist]
+[Encounter Pumpkaboo Small]
+080A0000 0315EFB8 00000001 000002C6
+
+[Encounter Pumpkaboo Large]
+080A0000 0315EFB8 00000002 000002C6
+
+[Encounter Pumpkaboo Jumbo]
+080A0000 0315EFB8 00000003 000002C6
+
+[Encounter Gourgeist Medium]
 040A0000 0315EFB8 000002C7
+
+[Encounter Gourgeist Small]
+080A0000 0315EFB8 00000001 000002C7
+
+[Encounter Gourgeist Large]
+080A0000 0315EFB8 00000002 000002C7
+
+[Encounter Gourgeist Jumbo]
+080A0000 0315EFB8 00000003 000002C7
 
 [Encounter Larvitar]
 040A0000 0315EFB8 000000F6
@@ -927,6 +945,9 @@ Enable the 'Always Encounter Pokemon' code and the individual encounter code of 
 
 [Encounter Farfetch’d]
 040A0000 0315EFB8 00000053
+
+[Encounter Galarian Farfetch’d]
+080A0000 0315EFB8 00000001 00000053
 
 [Encounter Sirfetch’d]
 040A0000 0315EFB8 00000361

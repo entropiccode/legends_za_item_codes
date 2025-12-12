@@ -109,11 +109,25 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Added encounter codes for some of the new Pokemon in the DLC. Paldaen pokemon are currently missing as their encounter codes are not working properly at time of writing.
 - Added item code for Prism Scale, Black Augurite, Malicious Armor and Auspicious Armor.
 - Added encounter codes for Paldean Pokemon! These were a pain in the ass to find (￣ヘ￣)
-- Added item code and remove item code for Rotom Catalog.
 #### Updates
 - Updated FAQ to include information on patch 2.0.0.
 - Updated 2.0.0 Gimmighoul Coin code to give 999 Coins.
+
+### December 11th
+#### New
+- Added item code and remove item code for Rotom Catalog.
+#### Updates
 - Updated the README to better clarify code functionality on emulators, and improved the tutorial on EdiZon subfolders for cheat files.
 - Updated the FAQ to provide generalized troubleshooting for use with emulators.
+
+### December 12th
+#### New
+- Added encounter codes for Galarian Farfetch'd and the various Pumpkaboo/Gourgeist sizes.
+- Added item codes and remove item codes for all the new TMs.
+#### Updates
 - Updated encounter codes to work with updated Always Encounter code, added base Always Encounter code and Restore Code to encounter code list to ensure the version the codes are based on is always available.
 - Added OblivionReign to the credits (which is arguably something I should have done a long time ago).
+- Updated this changelog a bit to properly reflect when I made certain changes instead of just lumping it under December 10th. Whoops.
+- Updated the full item ID list with the new items.
+#### Fixes
+- Fixed a small typo in 'Lumiose Galette' and 'Super Lumiose Galette' item names.
