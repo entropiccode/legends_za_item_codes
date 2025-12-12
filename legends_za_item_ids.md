@@ -1,6 +1,6 @@
 # Legends ZA Item IDs
 
-The following is a semi-complete list of items available in Legends ZA along with the hex values representing their index.
+The following is a complete list of items available in Legends ZA along with the hex values representing their index.
 
 Due to the way the inventory data works in Legends ZA, each item has two different hex values, one representing the hex value of their index and one representing the hex value of their inventory index, which is the normal index incremented by 1.
 
