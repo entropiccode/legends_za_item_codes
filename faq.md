@@ -43,6 +43,7 @@ These instructions are for those running Atmosphere CFW on Switch hardware with 
 | 1.0.2 | 7FC4289C78877148 |
 | 1.0.3 | 179C3843B984F878 |
 | 2.0.0 | 8A1C86C437394B69 |
+| 2.0.1 | BCE5D5393B5AA3A8 |
 
 For this example, I will setup a 1.0.1 cheat file (7222E13ECF6ADB32.txt) like so:
 

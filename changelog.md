@@ -131,3 +131,11 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Updated the full item ID list with the new items.
 #### Fixes
 - Fixed a small typo in 'Lumiose Galette' and 'Super Lumiose Galette' item names.
+
+## 2026
+### February 2nd
+#### New
+- Added codes for patch 2.0.1!
+- Updated FAQ to include build ID for version 2.0.1.
+#### Fixes
+- Added codes for patch 2.0.1. Addresses issue #5.
