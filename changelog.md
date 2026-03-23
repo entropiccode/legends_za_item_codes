@@ -139,3 +139,8 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Updated FAQ to include build ID for version 2.0.1.
 #### Fixes
 - Added codes for patch 2.0.1. Addresses issue #5.
+
+### March 23rd
+#### Updates
+- Updated '2.0.1 codes' folder name to '2.0.1 + 2.0.2 codes' as existing 2.0.1 codes should work for version 2.0.2.
+- Updated FAQ to include build ID for version 2.0.2
